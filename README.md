@@ -49,8 +49,8 @@ Select Settings.
 In the left sidebar, scroll down and click Developer settings.
 Click Personal access tokens, then select Tokens (classic).
 Click Generate new token.
-Note: Give your token a descriptive name (e.g., "devops-script-access").
-Grant appropriate permissions (scopes): For this script, you'll need at least repo permissions to read repository information. Be cautious with the permissions you grant, especially delete or admin access, as this token will have the same capabilities as your user account.
+Note: Give your token a descriptive name 
+Grant appropriate permissions: For this script, you'll need at least repo permissions to read repository information. Be cautious with the permissions you grant, especially delete or admin access, as this token will have the same capabilities as your user account.
 Click Generate token.
 Crucially, copy the generated token immediately! It will only be shown once.
 5. Export Environment Variables
