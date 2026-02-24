@@ -7,7 +7,7 @@ The script fetches repository collaborator information, focusing on non-admin us
 Prerequisites
 Before running this script, ensure you have the following installed on your Linux environment (e.g., an EC2 instance as demonstrated in the video):
 
-Git: To clone the repository containing the script.
+Git: To clone the repository containing the script.  
 JQ: A lightweight and flexible command-line JSON processor.
 Curl: A command-line tool for transferring data with URLs (usually pre-installed).
 Setup and Installation
